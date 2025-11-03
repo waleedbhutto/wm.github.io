@@ -147,7 +147,7 @@
           </div>
           <div style="margin-top:16px;display:flex;gap:10px;flex-wrap:wrap">
             <!-- FIXED: button links directly to Scholar (update ID if needed) -->
-            <a class="btn" href="https://scholar.google.com/citations?user=qOyRccEAAAAJ&hl=en" target="_blank" rel="noopener">See publications</a>
+            <a class="btn" href="https://scholar.google.com/citations?user=qOyRccEAAAAJ&amp;hl=en" target="_blank" rel="noopener">See publications</a>
             <a class="btn secondary" href="#projects">Explore projects</a>
           </div>
         </div>
@@ -216,7 +216,7 @@
         <div class="pub-item">
           <strong>Advanced Air Mobility: Innovations, Applications, Challenges, and Future Potential</strong> — <em>AIAA Journal of Air Transportation</em> (accepted).</div>
       </div></div>
-      <p class="pub-meta" style="margin-top:10px">Full list on <a href="https://scholar.google.com/citations?user=qOyRccEAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> and <a href="https://orcid.org/0000-0002-4142-3195" target="_blank" rel="noopener">ORCID</a>. <!-- TODO: replace with your real ORCID --></p>
+      <p class="pub-meta" style="margin-top:10px">Full list on <a href="https://scholar.google.com/citations?user=qOyRccEAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a> and <a href="https://orcid.org/0000-0002-4142-3195" target="_blank" rel="noopener">ORCID</a>. <!-- TODO: replace with your real ORCID --></p>
     </div>
   </section>
 
@@ -293,7 +293,7 @@
     <div class="container">
       <h2>CV</h2>
       <div class="card"><div class="card-inner">
-        <p>Download my latest CV: <a href="assets/Waleed_Raza_CV.pdf" download>Waleed_Raza_CV.pdf</a> (place your file in <code>assets/</code>).</p>
+        <p>Download my latest CV: <a href="./assets/Waleed_Raza_CV.pdf" target="_blank" rel="noopener" type="application/pdf">Waleed_Raza_CV.pdf</a> (place your file in <code>assets/</code>).</p>
         <p>Keywords: AAM/UAM, noise modeling, aeroacoustics, routing optimization, vertiport design, DAA, YOLO, PyTorch, MATLAB, AEDT, AIRNOISEUAM, Helios, PSU‑WOPWOP.</p>
       </div></div>
     </div>
@@ -316,14 +316,14 @@
       <div class="twocol">
         <div class="card"><div class="card-inner">
           <h3>Get in touch</h3>
-          <p>Email: <a href="mailto:raza.waleed@outlook.com">raza.waleed@outlook.com</a></p>
+          <p>Email: <a href="mailto:raza.waleed@my.erau.edu">razaw@my.erau.edu</a></p>
           <p>Affiliation: Embry‑Riddle Aeronautical University (Daytona Beach, FL)</p>
         </div></div>
         <div class="card"><div class="card-inner">
           <h3>Profiles</h3>
           <div class="social">
             <a href="https://github.com/wrbmf" target="_blank" rel="noopener">GitHub</a>
-            · <a href="https://scholar.google.com/citations?user=qOyRccEAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+            · <a href="https://scholar.google.com/citations?user=qOyRccEAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a>
             · <a href="https://www.linkedin.com/in/waleed-raza-b4690953/" target="_blank" rel="noopener">LinkedIn</a>
             · <a href="https://orcid.org/0000-0002-4142-3195" target="_blank" rel="noopener">ORCID</a>
             · <a href="https://sciprofiles.com/profile/waleedraza" target="_blank" rel="noopener">SCI Profiles</a>
