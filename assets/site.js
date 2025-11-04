@@ -23,6 +23,6 @@
     'contact.html': 'Contact'
   };
   const here = (location.pathname.split('/').pop() || '');
-  if (map[here]) document.title = map[here] + ' — Waleed Raza';
+  if (map[here]) document.title = map[here] + '';
 })();
 
